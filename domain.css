@@ -1,0 +1,37 @@
+
+p{
+    color: green;
+  }
+  .mainContainer{
+    background: orange;
+    width: 500px;
+    height: 250px;
+  }
+  
+  .headerContainer{
+    background: green;
+    height:30px;
+  }
+  .inputWhite{
+    margin-top: 20px;
+  }
+  .inputYellow{
+    margin-top: 20px;
+    background: yellow;
+  }
+  .labelSetup{
+    margin-left: 10px;
+  }
+  .aboutlabelSetup{
+    margin-left: 10px;
+    margin-top: 20px;
+  }
+  .textAreaSetup{
+    width: 480px;
+    height: 150px;
+    padding: 10px;
+  }
+  .submitButton{
+    border-radius: 2px;
+    background: green;
+  } 
